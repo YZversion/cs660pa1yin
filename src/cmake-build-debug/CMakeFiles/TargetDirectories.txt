@@ -1,0 +1,5 @@
+C:/Users/yinzhou/CLionProjects/CS660pa1Nikh1ta/src/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/yinzhou/CLionProjects/CS660pa1Nikh1ta/src/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/yinzhou/CLionProjects/CS660pa1Nikh1ta/src/cmake-build-debug/db/CMakeFiles/db.dir
+C:/Users/yinzhou/CLionProjects/CS660pa1Nikh1ta/src/cmake-build-debug/db/CMakeFiles/edit_cache.dir
+C:/Users/yinzhou/CLionProjects/CS660pa1Nikh1ta/src/cmake-build-debug/db/CMakeFiles/rebuild_cache.dir
